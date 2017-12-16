@@ -54,8 +54,8 @@ CREATE TABLE IF NOT EXISTS `USER_MASTER` (
 --
 
 INSERT INTO `USER_MASTER` (`ID`, `UserAccountID`, `UserTypeID`, `Firstname`, `Lastname`, `Username`, `Password`, `Email`, `Address`, `MobileCode`, `MobileNumber`, `LandlineNumber`, `Fax`, `AccountCode`, `DateStamp`, `ValidTill`, `UpdatedDateStamp`, `Comments`, `Status`) VALUES
-(1, 1, 1, 'Administrator', '', 'admin', '0192023a7bbd73250516f069df18b500', 'admin@onroadtrack.com', '', '', '', '', '', '', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '', 'Enabled'),
-(2, 2, 5, 'Demo', '', 'demo', 'fe01ce2a7fbac8fafaed7c982a04e229', 'demo@onroadtrack.com', '', '', '', '', '', '', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '', 'Enabled');
+(1, 1, 1, 'Administrator', '', 'admin', '0192023a7bbd73250516f069df18b500', 'admin@website.com', '', '', '', '', '', '', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '', 'Enabled'),
+(2, 2, 5, 'Demo', '', 'demo', 'fe01ce2a7fbac8fafaed7c982a04e229', 'demo@website.com', '', '', '', '', '', '', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '0000-00-00 00:00:00', '', 'Enabled');
 
 -- --------------------------------------------------------
 
